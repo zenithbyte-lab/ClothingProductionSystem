@@ -1,10 +1,3 @@
-# 启动教程
-
-- 项目录屏：https://www.bilibili.com/video/BV11y421e718
-- 启动教程：https://www.bilibili.com/video/BV1pW4y1P7GR
-- 安装包在视频详情中已提供。
-
-
 # 项目简介
 基于Vue.js和SpringBoot的服装生产管理系统，分为管理后台和用户网页端，可以给管理员、普通员工使用，包括人事安排、考勤管理、工资管理、成品检验、原料出入库、样品出入库模块和系统基础模块，项目编号T066。
 
